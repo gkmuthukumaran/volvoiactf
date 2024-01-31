@@ -1,0 +1,1 @@
+resource "aws_instance" "volvo_assesment" {}
